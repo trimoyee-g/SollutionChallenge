@@ -26,7 +26,7 @@ const ConversationPage = () => {
       </div>
       <div className="border p-4 md:p-10 lg:p-16 space-y-4 ">
   <p className="font-light text-sm md:text-lg text-center">
-    India's rural technological and infrastructural challenges are multifaceted. Limited Connectivity, Infrastructure Development, Financial Inclusion, Government Initiatives devoid the farmers of the right surplus price of their product.<br/><br/>
+    India&apos;s rural technological and infrastructural challenges are multifaceted. Limited Connectivity, Infrastructure Development, Financial Inclusion, Government Initiatives devoid the farmers of the right surplus price of their product.<br/><br/>
     <strong>Kisan Ka Link</strong> provides efficient logistical and development support to farmers to find them their right price in a B2B market to reduce the complex problem of connectivity to the urban consumer marketplace by optimizing real-time visibility.
   </p>
 </div>

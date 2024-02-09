@@ -51,12 +51,12 @@ const CodePage = () => {
               infrastructural support to assimilate their products into the
               right market for the right price. <br />
               <br />- <strong>Kisan Ka Link</strong> leverages data-driven AI
-              methodologies derived from <strong>Google's Gemini </strong> API
+              methodologies derived from <strong>Google&apos;s Gemini </strong> API
               methodology to reduce the complexity of the logistical hassle the
               farmers face to assemble their into the right market,also
-              providing <strong>Kisan Ka Link</strong> team's mentors to help
+              providing <strong>Kisan Ka Link</strong> team&apos;s mentors to help
               monitor, track and guide the process with the help of real-time
-              data data accessed from the <strong>Google Cloud</strong>'s
+              data data accessed from the <strong>Google Cloud</strong>&apos;s
               client-server platform,also ranging to remote rural locations for
               so.
               <br />

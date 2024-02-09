@@ -16,7 +16,7 @@ const CodePage = () => {
               Kishan Ka Link is a data-driven logistical support B2B marketplace
               company creating an enterprise-class secure Backup & Recovery
               solution. Our product can cater to the needs of the every client
-              who are looking for markets to sell their product's solution that
+              who are looking for markets to sell their product&apos;s solution that
               can do more than just update rural eonomy. The integration of
               cloud-based technologies in Kishan Ka Link platforms allows for
               seamless collaboration and communication among different

@@ -28,9 +28,9 @@ const VideoPage = () => {
                     ensure they can effectively utilize the platform, also
                     creating documentation and tutorials to help users navigate
                     and make the most of the SaaS platform.<br/>- Connecting
-                    Kishan Ka Link platform with Google Cloud's data analytics
+                    Kishan Ka Link platform with Google Cloud&apos;s data analytics
                     tools, such as BigQuery, to gain insights into inventory
-                    trends and every Kishan's behavior, helping in better demand
+                    trends and every Kishan&apos;s behavior, helping in better demand
                     forecasting and inventory optimization.<br/>- Kishan Ka Link chooses
                     Google Cloud Platform (GCP) for its scalability,
                     reliability, and a wide range of services. It also leverages
