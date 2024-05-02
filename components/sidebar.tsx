@@ -21,13 +21,13 @@ const routes=[
     color: "text-sky-500",
   },
   {
-    label: "Why choose Kisan Ka Link",
+    label: "Why choose Fiscal Fit",
     icon: FaQuestionCircle,
     href: "/whyKKL",
     color: "text-violet-500",
   },
   {
-    label: "About Kisan Ka Link",
+    label: "About Fiscal Fit",
     icon: FaInfoCircle,
     href: "/aboutKKL",
     color: "text-green-500",
@@ -44,18 +44,18 @@ const routes=[
     href: "/faq",
     color: "text-emerald-500",
   },
-  {
-    label: "About Us",
-    icon: FaInfoCircle,
-    href: "/aboutUS",
-    color: "text-maroon-500",
-  },
-  {
-    label: "Kishan Ka Link Pro",
-    icon: FaInfoCircle,
-    href: "/KKLpro",
-    color: "text-green-500",
-  },
+  // {
+  //   label: "About Us",
+  //   icon: FaInfoCircle,
+  //   href: "/aboutUS",
+  //   color: "text-maroon-500",
+  // },
+  // {
+  //   label: "Kishan Ka Link Pro",
+  //   icon: FaInfoCircle,
+  //   href: "/KKLpro",
+  //   color: "text-green-500",
+  // },
 ];
 
 const Sidebar = () => {
@@ -67,7 +67,7 @@ const Sidebar = () => {
             <div className='relative w-8 h-8 mr-4'>
               <Image fill alt="Logo" src="/logoCC.jpg" />
             </div>
-            <h1 className={cn('text-2xl font-bold',montserrat.className)}>Kisan Ka Link</h1>
+            <h1 className={cn('text-2xl font-bold',montserrat.className)}>Fiscal Fit</h1>
         </Link>
         <div className='space-y-1'>
           {routes.map((route) => (

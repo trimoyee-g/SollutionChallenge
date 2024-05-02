@@ -16,112 +16,67 @@ const VideoPage = () => {
             <Accordion collapseAll>
               <Accordion.Panel>
                 <Accordion.Title>
-                  Kisan Ka Link for Google Cloud
+                How it helps to solve the problem?
                 </Accordion.Title>
                 <Accordion.Content>
                   <p className="mb-2 text-black dark:text-white text-left">
-                    - Kishan Ka Link leverages Google Maps APIs for geospatial
-                    analysis, helping with route optimization for deliveries to
-                    rural areas. <br/>- Implement location-based services to track the
-                    movement of inventory and shipments in real-time.<br/>- It also
-                    offers training programs and support services for users to
-                    ensure they can effectively utilize the platform, also
-                    creating documentation and tutorials to help users navigate
-                    and make the most of the SaaS platform.<br/>- Connecting
-                    Kishan Ka Link platform with Google Cloud&apos;s data analytics
-                    tools, such as BigQuery, to gain insights into inventory
-                    trends and every Kishan&apos;s behavior, helping in better demand
-                    forecasting and inventory optimization.<br/>- Kishan Ka Link chooses
-                    Google Cloud Platform (GCP) for its scalability,
-                    reliability, and a wide range of services. It also leverages
-                    Google Cloud Storage for storing large datasets, such as
-                    inventory records and sales data and uses Google Cloud
-                    Functions for serverless computing to handle specific tasks,
-                    such as updating inventory levels or sending alerts. <br/>- It is
-                    developed keeping in mind an user-friendly interface for the
-                    platform, keeping in mind the technological literacy of
-                    users in rural areas and features that allow users to easily
-                    manage inventory, track shipments, and analyze sales data.{" "}
+                  - Personalized learning: AI-powered modules tailor content to individual user goals and knowledge levels, making financial education more engaging and effective. <br></br>
+	- Accessibility: Offering content in multiple languages, incorporating text-to-speech features, and designing user-friendly interfaces ensures inclusivity for all users, regardless of literacy levels or abilities. <br></br>
+	- Actionable tools: Integrating budgeting tools, connecting users with financial advisors, and providing information on relevant financial products empower individuals to make informed decisions and manage their finances effectively.
+{" "}
                     <br />
                   </p>
                 </Accordion.Content>
               </Accordion.Panel>
               <Accordion.Panel>
-                <Accordion.Title>Kisan Ka Link for database</Accordion.Title>
+                <Accordion.Title>What are the important metrics?</Accordion.Title>
                 <Accordion.Content>
                   <p className="mb-2 text-black dark:text-white text-left">
-                    - Simplified data protection for SQL Server to provide
-                    hassle-free solution to farmers.
-                    <br />
-                    - Kisan Ka Link provides instant data protection by
-                    integrating with native VSS technology. <br />
-                    - Achieve near Zero RTO with clones.
-                    <br />
-                    - Provision SQL databases and servers instantly for Dev/Test
-                    and non recovery use cases. <br />
+                  - User engagement metrics: Track user activity, completion rates of modules, and participation in gamified elements. <br/>
+	- Knowledge retention: Assess learning outcomes through pre- and post-tests, quizzes, and simulations. <br/>
+	- Financial behavior metrics: Monitor budget adherence, savings accumulation, and investment decisions to gauge the real-world impact of the solution.
+<br />
                   </p>
                 </Accordion.Content>
               </Accordion.Panel>
               <Accordion.Panel>
-                <Accordion.Title>Restore tables</Accordion.Title>
+                <Accordion.Title>Frameworks/Technologies stacks to be used</Accordion.Title>
                 <Accordion.Content>
                   <p className="mb-2 text-black dark:text-white text-left">
-                    - Restore only the specific set of corrupt tables instead of
-                    reverting the complete database.
+                    - Frontend: Utilizing open-source technologies like ReactJS for dynamic and responsive user interfaces along with Tailwind CSS , and Matplotlib and Seaborn for visualizations. <br/>
+	- Backend: Leveraging Python/Django for scalability, security, and ease of development. <br/>
+	- Cloud platforms: Deploying on platforms like Google Cloud Platform (GCP) or Amazon Web Services (AWS) for data storage, scalability, and global reach.
+
                     <br />
                   </p>
                 </Accordion.Content>
               </Accordion.Panel>
 
               <Accordion.Panel>
-                <Accordion.Title>Point-In-Time Recovery</Accordion.Title>
+                <Accordion.Title>Assumptions, constraints, and solution decision points</Accordion.Title>
                 <Accordion.Content>
                   <p className="mb-2 text-black dark:text-white text-left">
-                    - Turn the clock backwards and restore databases to any
-                    Point in Time with just a simple click.
+                    - Assumptions: Users have basic internet access and are comfortable with devices. Funding for development and maintenance is available. <br/>
+	- Constraints: Limited resources and time for development. <br/>
+	- Solution decision points: Chose open-source frameworks for cost-effectiveness and community support. Opted for cloud platforms for scalability and global reach.
+
                     <br />
                   </p>
                 </Accordion.Content>
               </Accordion.Panel>
               <Accordion.Panel>
-                <Accordion.Title>Auto clean old backups</Accordion.Title>
+                <Accordion.Title>Extent of Scalability/Usability</Accordion.Title>
                 <Accordion.Content>
                   <p className="mb-2 text-black dark:text-gray-400 text-left">
-                    - Manage life cycle of the copies at the policy and
-                    transaction level & retain critical backups beyond retention
-                    cycle. <br />
+                    - Scalability: The solution is designed with modular components and utilizes cloud platforms for easy scaling to accommodate growing user bases and feature updates. <br/>
+	- Usability: User-friendly interfaces, multiple language support, and accessibility features ensure broad usability across diverse demographics.
+ <br />
                   </p>
                 </Accordion.Content>
               </Accordion.Panel>
-              <Accordion.Panel>
-                <Accordion.Title>Instant Copies</Accordion.Title>
-                <Accordion.Content>
-                  <p className="mb-2 text-black dark:text-gray-400 text-left">
-                    - Instant copies of database for Analytics, Test/Dev in
-                    minutes. <br />
-                  </p>
-                </Accordion.Content>
-              </Accordion.Panel>
-              <Accordion.Panel>
-                <Accordion.Title>Reports</Accordion.Title>
-                <Accordion.Content>
-                  <p className="mb-2 text-black dark:text-white text-left">
-                    - Generate detailed database reports and monitor the live
-                    servers connected to the Kisan Ka Link hotspots available
-                    for any databases created using Kisan Ka Link.
-                    <br />
-                  </p>
-                </Accordion.Content>
-              </Accordion.Panel>
-              <Accordion.Panel>
-                <Accordion.Title>Stress free backup</Accordion.Title>
-                <Accordion.Content>
-                  <p className="mb-2 text-black dark:text-white text-left">
-                    - Stress free backup with no load on machine and network.{" "}
-                    <br />
-                  </p>
-                </Accordion.Content>
-              </Accordion.Panel>
+              
+              
+              
             </Accordion>
           </div>
         </div>

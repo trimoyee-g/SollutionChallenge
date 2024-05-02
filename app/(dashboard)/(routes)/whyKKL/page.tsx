@@ -16,7 +16,7 @@ const ConversationPage = () => {
           <TypewriterComponent
             options={{
               strings: [
-                "Why choose Kisan Ka Link?"
+                "Why choose Fiscal Fit?"
               ],
               autoStart: true,
               loop: true,
@@ -25,9 +25,12 @@ const ConversationPage = () => {
         </div>
       </div>
       <div className="border p-4 md:p-10 lg:p-16 space-y-4 ">
-  <p className="font-light text-sm md:text-lg text-center">
-    India&apos;s rural technological and infrastructural challenges are multifaceted. Limited Connectivity, Infrastructure Development, Financial Inclusion, Government Initiatives devoid the farmers of the right surplus price of their product.<br/><br/>
-    <strong>Kisan Ka Link</strong> provides efficient logistical and development support to farmers to find them their right price in a B2B market to reduce the complex problem of connectivity to the urban consumer marketplace by optimizing real-time visibility.
+  <p className="font-light text-sm md:text-lg text-start">
+  Personalized Learning Experience: Our platform offers personalized financial education tailored to each user`&apos;`s goals and knowledge levels. Through AI algorithms, users receive content and guidance that are specifically relevant to their needs, making the learning experience more engaging and effective.<br/> <br/>
+Accessibility: We prioritize accessibility for all users, regardless of their literacy levels, abilities, or language proficiency. Features such as text-to-speech functionality, multiple language support, and user-friendly interfaces ensure inclusivity and ease of use for everyone.<br/> <br/>
+Actionable Tools: In addition to educational content, our platform provides practical tools and resources to help users implement what they learn in their daily lives. Budgeting calculators, connections to financial advisors, and other actionable tools empower users to make informed financial decisions and manage their finances effectively.<br/><br/>
+Empowerment and Security: By equipping users with financial knowledge and tools, we empower them to take control of their financial futures, reduce financial stress, and build long-term security. Moreover, our platform prioritizes data security and privacy, ensuring that users can trust us with their sensitive financial information.<br/><br/>
+Social Impact: Choosing our platform means contributing to broader societal goals, such as promoting financial inclusion, reducing economic disparities, and fostering financial resilience in society. By educating individuals and empowering them to make better financial decisions, we collectively work towards building a more financially secure and equitable world.
   </p>
 </div>
 

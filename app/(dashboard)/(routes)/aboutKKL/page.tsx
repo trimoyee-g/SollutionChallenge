@@ -8,22 +8,12 @@ const CodePage = () => {
       <div className="px-5 py-10">
         <div className="mb-8 space-y-4">
           <div className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl space-y-5 font-bold text-center">
-            About Kisan Ka Link
+            About Fiscal Fit
           </div>{" "}
           <br />
           <div className="border p-4 md:p-10 lg:p-16 space-y-4 ">
             <p className=" font-light text-sm md:text-lg text-start">
-              <strong>Kisan Ka Link</strong> provides logistical connection and
-              mentors to help rural farmers finding their right prices and
-              markets setting up a nearby
-              <strong>Kisan Ka Link</strong> hotspot known as{" "}
-              <strong>Kisan Ka Link</strong> Hub,both in nearby rural and urban
-              areas to facilitate ease of B2B market process for them. With the
-              integration of Google Cloud client-server backup,
-              <strong>Kisan Ka Link</strong> with the help of data-driven backup
-              helps in finding the farmers the optimum logistical and
-              infrastructural support to assimilate their products into the
-              right market for the right price.
+            Our project focuses on leveraging technology to provide accessible, personalized financial education to individuals of all backgrounds. The platform will utilize AI algorithms to tailor content to each user`&apos;`s goals and knowledge levels, making learning engaging and effective. Key features include interactive modules covering topics such as budgeting, saving, investing, and financial planning, as well as actionable tools like budgeting calculators and connections to financial advisors. Accessibility is a core principle, with multiple language support, text-to-speech features, and user-friendly interfaces ensuring inclusivity for all users. The project`&apos;`s scalability and usability are enhanced through modular design, cloud-based infrastructure, and continuous optimization based on data analytics and user feedback. Ultimately, our project aims to promote financial inclusion, reduce economic disparities, and foster financial resilience in society.
             </p>
             
           </div>
