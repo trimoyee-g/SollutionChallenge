@@ -64,6 +64,19 @@ Track Progress and Adjust Accordingly: <br/>
                   </p>
                 </Accordion.Content>
               </Accordion.Panel>
+              <Accordion.Panel>
+                <Accordion.Title>
+                Fun Profit Ventures
+                </Accordion.Title>
+                <Accordion.Content>
+                  <p className="mb-2 text-black dark:text-white text-left">
+                  - Fun stories to be added in the future! <br></br>
+	
+{" "}
+                    <br />
+                  </p>
+                </Accordion.Content>
+              </Accordion.Panel>
               </Accordion>
 
       {/* <div className="h-80 sm:h-96 xl:h-120 2xl:h-144">
