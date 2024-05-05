@@ -15,45 +15,28 @@ const MusicPage = () => {
           <br />
         <Accordion collapseAll>
           <Accordion.Panel>
-            <Accordion.Title>How does Kisan Ka Link address the interconnected challenges of connectivity, market access, and financial inclusion for rural farmers, and what is the expected overall impact on their livelihoods and the agricultural sector?</Accordion.Title>
+            <Accordion.Title>Why is financial literacy important, and how does Fiscal Fit address this need?</Accordion.Title>
             <Accordion.Content>
-              <p className="mb-2 text-black dark:text-white text-left">
-              - Connectivity Improvement: Kisan Ka Link will achieve a 30% reduction in connectivity challenges for rural farmers, resulting in decreased delays in product transportation to urban markets.
-
-                <br /><br/>
-                - Market Access: The establishment of Kisan Ka Link Hubs in rural and urban areas will lead to a 40% increase in farmers accessing B2B markets, as evidenced by transaction data and increased market participation rates.
-<br/><br/>
-                - Financial Impact: Through Kisan Ka Link&apos;s support, farmers will experience a 25% increase in average income, indicating a successful resolution to the challenge of limited financial inclusion.
+              <p className="mb-2 text-black dark:text-white text-left">Financial literacy is crucial because it empowers individuals to manage their finances effectively, avoid debt problems, accumulate savings, and make informed investment decisions. Fiscal Fit addresses this need by utilizing AI-powered personalized learning, accessible content, and actionable tools to equip individuals with the knowledge and skills they need to navigate the complexities of personal finance.
               </p>
               
             </Accordion.Content>
           </Accordion.Panel>
           <Accordion.Panel>
-            <Accordion.Title>What additional success metrics, beyond those already identified, could be tracked to comprehensively assess the impact of Kisan Ka Link on the agricultural sector?</Accordion.Title>
+            <Accordion.Title>How does Fiscal Fit measure success, and what metrics are used to evaluate its effectiveness?</Accordion.Title>
             <Accordion.Content>
               <p className="mb-2 text-black dark:text-white text-left">
-                - Real-time Visibility Enhancement: The implementation of real-time visibility measures will result in a 20% reduction in delivery time, positively impacting the efficiency of logistical processes.
-
-                <br /><br/>
-                - B2B Market Optimization: Kisan Ka Link will facilitate a 35% improvement in farmers securing prices above the market average in B2B transactions, showcasing a tangible success in optimizing market outcomes.
-<br/><br/>
-- Cost Reduction: Leveraging existing platforms and adopting a software-only solution will lead to a 15% reduction in overall operational costs for farmers, contributing to financial sustainability.
-<br/><br/>
+              We measure the success of Fiscal Fit through a variety of metrics, including user engagement, knowledge retention, and financial behavior. Key metrics we track include user activity, completion rates, pre- and post-test scores, budget adherence, savings accumulation, and investment decisions. By analyzing these metrics, we can assess the effectiveness of our platform in improving financial literacy and promoting positive financial behaviors.
               </p>
               
             </Accordion.Content>
           </Accordion.Panel>
 
           <Accordion.Panel>
-            <Accordion.Title>What are the potential future applications of the AI-driven analytics powered by Google technologies within the agricultural sector beyond Kisan Ka Link&apos;s current scope?</Accordion.Title>
+            <Accordion.Title>What makes Fiscal Fit unique and effective compared to other financial education initiatives?</Accordion.Title>
             <Accordion.Content>
               <p className="mb-2 text-black dark:text-white text-left">
-                - Google Cloud&apos;s Client-Server Platform: Usage analytics from this platform will reveal a 25% increase in the efficiency of Kisan Ka Link&apos;s data-driven AI methodologies in addressing logistical complexities.
-
-                <br /><br/>
-                - Google&apos;s Gemini API Methodology: Analytics derived from Gemini API will show a 30% reduction in the time required for farmers to assemble their products in the right market, demonstrating the effectiveness of AI-driven optimizations.
-<br/><br/>
-              
+              Fiscal Fit stands out due to its unique combination of AI-powered personalized learning, accessibility features, and actionable tools. Unlike traditional financial education initiatives, which may offer generic content and lack personalization, our platform tailors content to individual user goals and knowledge levels, making learning more engaging and effective. Additionally, our focus on accessibility ensures inclusivity for all users, regardless of literacy levels or abilities, while our actionable tools empower individuals to apply their newfound knowledge in practical ways.
               </p>
               
             </Accordion.Content>

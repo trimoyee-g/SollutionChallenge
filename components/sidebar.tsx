@@ -5,7 +5,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Montserrat } from "next/font/google";
 import { cn } from '@/lib/utils';
-import { Code, LayoutDashboard, MessageSquare, Music, VideoIcon } from 'lucide-react';
+// import { Code, LayoutDashboard, MessageSquare, Music, VideoIcon } from 'lucide-react';
 import { usePathname } from 'next/navigation';
 import { FaHome, FaQuestionCircle, FaInfoCircle, FaLightbulb, FaFileAlt } from 'react-icons/fa';
 
@@ -23,13 +23,13 @@ const routes=[
   {
     label: "Why choose Fiscal Fit",
     icon: FaQuestionCircle,
-    href: "/whyKKL",
+    href: "/whyFF",
     color: "text-violet-500",
   },
   {
     label: "About Fiscal Fit",
     icon: FaInfoCircle,
-    href: "/aboutKKL",
+    href: "/aboutFF",
     color: "text-green-500",
   },
   {

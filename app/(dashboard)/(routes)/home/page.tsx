@@ -53,24 +53,24 @@ const DashboardPage = () => {
                   <p className="mb-2 text-black dark:text-white text-left">
                   Assess Financial Goals and Knowledge: <br/>
 
-- Utilize the platform`&apos;`s personalized learning modules to assess the user`&apos;`s financial goals, knowledge levels, and current financial situation. <br/>
+- Utilize the platform&apos;s personalized learning modules to assess the user&apos;s financial goals, knowledge levels, and current financial situation. <br/>
 - Complete quizzes, simulations, and self-assessment tools to identify areas of strength and areas that require improvement. <br/><br/>
 Create a Budget and Savings Plan:<br/>
 
-- Use the platform`&apos;`s budgeting tools to create a personalized budget based on the user`&apos;`s income, expenses, and financial goals. <br/> 
+- Use the platform&apos;s budgeting tools to create a personalized budget based on the user&apos;s income, expenses, and financial goals. <br/> 
 - Set aside a portion of income for savings, emergency funds, and long-term goals such as retirement or education. <br/><br/>
 Explore Investment Options: <br/>
 
 - Learn about different investment options available through the platform, such as stocks, bonds, mutual funds, and ETFs. <br/>
-- Assess risk tolerance and investment objectives to develop a personalized investment strategy aligned with the user`&apos;`s financial goals and timeline. <br/><br/>
+- Assess risk tolerance and investment objectives to develop a personalized investment strategy aligned with the user&apos;s financial goals and timeline. <br/><br/>
 Receive Personalized Recommendations: <br/>
 
-- Based on the user`&apos;`s financial profile and goals, receive personalized recommendations for financial products and services available through the platform. <br/>
-- Explore options for credit cards, loans, insurance policies, and other financial products tailored to the user`&apos;`s needs and preferences. <br/><br/>
+- Based on the user&apos;s financial profile and goals, receive personalized recommendations for financial products and services available through the platform. <br/>
+- Explore options for credit cards, loans, insurance policies, and other financial products tailored to the user&apos;s needs and preferences. <br/><br/>
 
 Track Progress and Adjust Accordingly: <br/>
 
-- Use the platform`&apos;`s tracking tools to monitor progress towards financial goals, track spending habits, and measure investment performance. <br/>
+- Use the platform&apos;s tracking tools to monitor progress towards financial goals, track spending habits, and measure investment performance. <br/>
 - Adjust the financial plan as needed based on changes in income, expenses, market conditions, and life events. <br/>
 {" "}
                     <br />
