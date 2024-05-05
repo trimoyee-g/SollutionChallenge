@@ -31,20 +31,7 @@ const DashboardPage = () => {
                   </p>
                 </Accordion.Content>
               </Accordion.Panel>
-              <Accordion.Panel>
-                <Accordion.Title>
-                Fun Profit Ventures
-                </Accordion.Title>
-                <Accordion.Content>
-                  <p className="mb-2 text-black dark:text-white text-left">
-                  - Personalized learning: AI-powered modules tailor content to individual user goals and knowledge levels, making financial education more engaging and effective. <br></br>
-	- Accessibility: Offering content in multiple languages, incorporating text-to-speech features, and designing user-friendly interfaces ensures inclusivity for all users, regardless of literacy levels or abilities. <br></br>
-	- Actionable tools: Integrating budgeting tools, connecting users with financial advisors, and providing information on relevant financial products empower individuals to make informed decisions and manage their finances effectively.
-{" "}
-                    <br />
-                  </p>
-                </Accordion.Content>
-              </Accordion.Panel>
+              
               <Accordion.Panel>
                 <Accordion.Title>
                 Get your personalized financial plan
